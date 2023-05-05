@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Everything Kingroon KLP1
+## What is Kingroon KLP1
 
 ![](/images/KingroonKLP1.webp){ align=right width="150" }
 
