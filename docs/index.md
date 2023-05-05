@@ -9,7 +9,7 @@ hide:
 
 Kingroon KLP1 is a budget friendly, fully enclosed CoreXY 3D printer running on [Klipper](https://www.klipper3d.org/). Kingroom claims high print speed of 200-350 mm/s, 500 mm/s travel speed with 10000 mm/s acceleration
 
-This site will be a compendium of guides, parts list and upgrade how-to's! Suggestions and criticism welcome!
+This site will be a compendium of guides, parts list and upgrade how-to's as the information starts coming in with the release of the printer.
 
 ## Features
 
