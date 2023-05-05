@@ -1,5 +1,5 @@
 site_name: Kingroon KLP1 Knowledge Base
-site_description: Guides, help, troubleshooting, parts list and upgrade tutorials for Kingroon KLP1 Klipper based CoreXY 3D printer
+site_description: Kingroon KLP1 Klipper based CoreXY 3D printer guides, help, troubleshooting, parts list and upgrade tutorials
 site_url: https://klp1.com
 repo_url: https://github.com/blakadder/klp1
 edit_uri: edit/main/docs/
