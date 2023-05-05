@@ -5,7 +5,7 @@ hide:
 
 # Everything Kingroon KLP1
 
-![](/images/KingroonKLP1.webp){ align=right }
+![](/images/KingroonKLP1.webp){ align=right width="150" }
 
 Kingroon KLP1 is a budget friendly, fully enclosed CoreXY 3D printer running on [Klipper](https://www.klipper3d.org/). Kingroom claims high print speed of 200-350 mm/s, 500 mm/s travel speed with 10000 mm/s acceleration
 
@@ -13,7 +13,7 @@ This site will be a compendium of guides, parts list and upgrade how-to's! Sugge
 
 ## Features
 
-![](/images/extruder.webp){ align=right }
+![](/images/extruder.webp){ align=right width="150" }
 
 - metal enclosure with a 400x420x420mm footprint 
 - MGN12 linear rails for X and Y axis and dual linear rails for Z axis
@@ -33,7 +33,7 @@ This site will be a compendium of guides, parts list and upgrade how-to's! Sugge
 
 ## Buy Kingroon KLP1
 
-[![](/images/klp1showcase.jpg){ align=right }](/images/klp1showcase.jpg)
+[![](/images/klp1showcase.jpg){ align=right }](/images/klp1showcase.jpg){ align=right width="150" }
 
 
 [Kingroon.com](https://gozbx.com/r/dIIWju3DmLsM){ .md-button }
