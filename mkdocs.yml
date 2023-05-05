@@ -1,0 +1,97 @@
+site_name: Kingroon KLP1 Knowledge Base
+site_description: Guides, help, troubleshooting, parts list and upgrade tutorials for Kingroon KLP1 Klipper based CoreXY 3D printer
+site_url: https://klp1.com
+repo_url: https://github.com/blakadder/klp1
+edit_uri: edit/main/docs/
+
+
+theme:
+  name: material
+  custom_dir: overrides
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: green
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: light green
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  font:
+    text: Rajdhani
+  favicon: images/logo.png
+  features:
+    - navigation.footer
+    - navigation.instant
+    - navigation.tracking
+    # - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.indexes 
+    - toc.follow
+    - navigation.top
+    - content.action.edit
+    - toc.follow
+
+  icon:
+    admonition:
+      tip: material/shopping-outline  
+  logo: images/logo.png
+
+plugins:
+  - search
+  - tags
+  - social:
+      cards_font: Rajdhani
+      cards: !ENV [CARDS, false]
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  # - glightbox
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - footnotes
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
+  - toc:
+      permalink: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter 
+      link: https://twitter.com/blakadder_
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/blak_adder
+    - icon: fontawesome/solid/blog
+      link: https://blakadder.com
+  
+  consent:
+    title: Cookie consent
+    description: >- 
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+  analytics:
+    provider: google
+    property: G-TGTMDFD831
+
+copyright: >
+  Copyright &copy; 2023 Smart Home News doo –
+  <a href="#__consent">cookie settings</a> 
+  | <small>Some of the links are affiliate links. If you buy using them I receive a small commission which helps to maintain this site.</small>
