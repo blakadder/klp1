@@ -3,9 +3,9 @@ hide:
   - toc
 ---
 
-This site will be a compendium of guides, parts list and upgrade how-to's as the information starts coming in with the release of the printer.
+# What is Kingroon KLP1
 
-## What is Kingroon KLP1
+!!! info "This site will be a compendium of guides, parts list and upgrade how-to's as the information starts coming in with the release of the printer"
 
 ![](/images/KingroonKLP1.webp){ align=right width="150" }
 
