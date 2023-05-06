@@ -32,6 +32,7 @@ Kingroon KLP1 is a budget friendly, fully enclosed CoreXY 3D printer running on 
 - Toolhead connected to mainboard via CANBUS
 - 5015 part cooling fan
 
+[**KPL1 assembly and first start guide**](https://kingroon.com/blogs/downloads/kingroon-klp1-3d-printer-assembly-guide)
 
 ## Buy Kingroon KLP1
 
