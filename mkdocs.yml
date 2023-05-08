@@ -54,6 +54,7 @@ plugins:
       cards_font: Rajdhani
       cards_color:
         fill: "#CC5500" 
+        text: "#000000"
       # cards: !ENV [CARDS, false]
 
 markdown_extensions:
