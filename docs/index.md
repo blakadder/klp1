@@ -1,6 +1,7 @@
 ---
 hide:
   - toc
+  - navigation
 title: Everything about Kingroon KLP1
 ---
 
