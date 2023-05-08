@@ -1,6 +1,7 @@
 ---
 hide:
   - toc
+title: Everything about Kingroon KLP1
 ---
 
 # What is Kingroon KLP1
@@ -13,6 +14,7 @@ Kingroon KLP1 is a budget friendly, fully enclosed CoreXY 3D printer running on 
 
 ## Features
 
+![](/images/extruder.webp){ align=right width="250" }
 
 - metal enclosure with a 400x420x420mm footprint 
 - MGN12 linear rails for X and Y axis and dual linear rails for Z axis
@@ -20,9 +22,6 @@ Kingroon KLP1 is a budget friendly, fully enclosed CoreXY 3D printer running on 
 - High sensitivity inductive bed level probe
 - 210x210x210 print size on a PEI print sheet 
 - All-in-one custom Klipper mainboard based on [MKS SKIPR](https://www.aliexpress.com/item/1005004509354702.html?aff_fcid=166358c921274e8b927d0c0b45c149f6-1683324450389-05113-_DeCkcSN&tt=CPS_NORMAL&aff_fsk=_DeCkcSN&aff_platform=shareComponent-detail&sk=_DeCkcSN&aff_trace_key=166358c921274e8b927d0c0b45c149f6-1683324450389-05113-_DeCkcSN&terminal_id=165068c405fe431e83f4b86336c9e8c9&afSmartRedirect=y) with Ethernet and Wi-Fi (with a dongle) connectivity. 
-
-![](/images/extruder.webp){ align=right width="250" }
-
 - HDMI port for connecting a [KlipperScreen](https://klipperscreen.readthedocs.io/en/latest/) supported HDMI touch screen such as [BTT HDMI5/7](https://www.aliexpress.com/item/1005004670914369.html?aff_fcid=4006b0d889564e87a73f7e195f46077e-1683321888609-00393-_Defvcct&tt=CPS_NORMAL&aff_fsk=_Defvcct&aff_platform=shareComponent-detail&sk=_Defvcct&aff_trace_key=4006b0d889564e87a73f7e195f46077e-1683321888609-00393-_Defvcct&terminal_id=165068c405fe431e83f4b86336c9e8c9&afSmartRedirect=y), [Makerbase IPS50](https://www.aliexpress.com/item/1005005403283947.html?aff_fcid=ba0b52490e384cc4a715ceaf06b3267e-1683321844917-07709-_DDCmVaD&tt=CPS_NORMAL&aff_fsk=_DDCmVaD&aff_platform=shareComponent-detail&sk=_DDCmVaD&aff_trace_key=ba0b52490e384cc4a715ceaf06b3267e-1683321844917-07709-_DDCmVaD&terminal_id=165068c405fe431e83f4b86336c9e8c9&afSmartRedirect=y) or [RPi display](https://www.aliexpress.com/item/1005004785628915.html?aff_fcid=c7e3464c4bb9456a881924abca3bd95c-1683321943013-04400-_Dn01gDb&tt=CPS_NORMAL&aff_fsk=_Dn01gDb&aff_platform=shareComponent-detail&sk=_Dn01gDb&aff_trace_key=c7e3464c4bb9456a881924abca3bd95c-1683321943013-04400-_Dn01gDb&terminal_id=165068c405fe431e83f4b86336c9e8c9&afSmartRedirect=y)
 - Steel nozzle, standard sized 
 - PTFE lined hotend with only 260 C max temperature, all metal heatbreak available later
@@ -36,7 +35,7 @@ Kingroon KLP1 is a budget friendly, fully enclosed CoreXY 3D printer running on 
 
 ## Buy Kingroon KLP1
 
-[![](/images/klp1showcase.jpg){ align=right  width="250" }](/images/klp1showcase.jpg)
+[![](/images/klp1showcase.jpg){ width="250" }](/images/klp1showcase.jpg)
 
 
 [Kingroon.com](https://gozbx.com/r/dIIWju3DmLsM){ .md-button }
