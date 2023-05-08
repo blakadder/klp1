@@ -52,7 +52,8 @@ plugins:
   - tags
   - social:
       cards_font: Rajdhani
-      fill: "#CC5500" 
+      cards_color:
+        fill: "#CC5500" 
       # cards: !ENV [CARDS, false]
 
 markdown_extensions:
