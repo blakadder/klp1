@@ -1,5 +1,6 @@
 site_name: Kingroon KLP1 Knowledge Base
 site_description: Kingroon KLP1 Klipper based CoreXY 3D printer guides, help, troubleshooting, parts list and upgrade tutorials
+site_author: blakadder.com
 site_url: https://klp1.com
 repo_url: https://github.com/blakadder/klp1
 edit_uri: edit/main/docs/
@@ -51,7 +52,8 @@ plugins:
   - tags
   - social:
       cards_font: Rajdhani
-      cards: !ENV [CARDS, false]
+      fill: "#CC5500" 
+      # cards: !ENV [CARDS, false]
 
 markdown_extensions:
   - attr_list
