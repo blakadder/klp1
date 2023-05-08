@@ -28,7 +28,7 @@ theme:
         name: Switch to light mode
   font:
     text: Rajdhani
-  favicon: images/logo.png
+  favicon: images/favicon.png
   features:
     - navigation.footer
     - navigation.instant
