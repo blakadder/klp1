@@ -52,9 +52,9 @@ plugins:
   - tags
   - social:
       cards_font: Rajdhani
-      cards_color:
-        fill: "#CC5500" 
-        text: "#000000"
+      cards_layout_options:
+        background_color: "#CC5500" 
+        font_family: "#000000"
       # cards: !ENV [CARDS, false]
 
 markdown_extensions:
