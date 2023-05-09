@@ -51,7 +51,6 @@ plugins:
   - search
   - tags
   - social:
-      cards_font: 
       cards_layout_options:
         background_color: "#CC5500" 
         font_family: Rajdhani
