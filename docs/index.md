@@ -34,6 +34,8 @@ Kingroon KLP1 is a budget friendly, fully enclosed CoreXY 3D printer running on 
 
 [**KPL1 assembly and first start guide**](https://kingroon.com/blogs/downloads/kingroon-klp1-3d-printer-assembly-guide)
 
+[USB Drive files](https://drive.google.com/drive/folders/1UqacyqooeFoBRxhgQFeJqYTtFrOGW3rs)
+
 ## Buy Kingroon KLP1
 
 [![](/images/klp1showcase.jpg){ width="250" }](/images/klp1showcase.jpg)
