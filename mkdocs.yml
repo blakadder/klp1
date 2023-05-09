@@ -51,10 +51,11 @@ plugins:
   - search
   - tags
   - social:
-      cards_font: Rajdhani
+      cards_font: 
       cards_layout_options:
         background_color: "#CC5500" 
-        font_family: "#000000"
+        font_family: Rajdhani
+        color: "#000000"
       # cards: !ENV [CARDS, false]
 
 markdown_extensions:
