@@ -8,17 +8,14 @@ description: Toolhead parts (extruder and hotend) for Kingroon KLP1
 
 Comes with V6 hardened steel nozzles.
 
-
-
-
 ## Extruder 
 
 ### Gears
 
-Extruder has a custom machines aluminum case but the gears and lever used are from a clone BMG extruder.
+Extruder has a custom machined aluminum case but the gears and lever used are from a clone BMG extruder.
 
-[![Extruder gear](/images/parts/extruder_gear.jpg){ width="50%" }](/images/parts/extruder_gear.jpg)
-[![Extruder lever](/images/parts/extruder_lever.jpg){ width="50%" }](/images/parts/extruder_lever.jpg)
+[![Extruder gear](/images/parts/extruder_gear.jpg){ width="49%" }](/images/parts/extruder_gear.jpg)
+[![Extruder lever](/images/parts/extruder_lever.jpg){ width="49%" }](/images/parts/extruder_lever.jpg)
 
 
 !!! tip "Buy from"
@@ -43,15 +40,15 @@ NEMA14 36 high temperature stepper motor
 
 Custom board similar to MKS THR boards connected to the mainboard via CANBUS. Marked "Kingroon KP THR V1.0".
 
-[![Extruder board front](/images/parts/extruder_board_front.jpg){ width="50%" }](/images/parts/extruder_board_front.jpg)
-[![Extruder board back](/images/parts/extruder_board_back.jpg){ width="50%" }](/images/parts/extruder_board_back.jpg)
+[![Extruder board front](/images/parts/extruder_board_front.jpg){ width="49%" }](/images/parts/extruder_board_front.jpg)
+[![Extruder board back](/images/parts/extruder_board_back.jpg){ width="49%" }](/images/parts/extruder_board_back.jpg)
 
 ## Inductive ABL Probe
 
 J8A3-2/Z/BX NPN NO 2mm 5V inductive probe connected to the THR board with a PH2.0 3-pin plug.
 
-[![Inductive probe](/images/parts/probe.jpg){ width="50%" }](/images/parts/probe.jpg)
-[![Inductive probe 2](/images/parts/probe2.jpg){ width="50%" }](/images/parts/probe2.jpg)
+[![Inductive probe](/images/parts/probe.jpg){ width="49%" }](/images/parts/probe.jpg)
+[![Inductive probe 2](/images/parts/probe2.jpg){ width="49%" }](/images/parts/probe2.jpg)
 
 !!! tip "Buy from"
     [AliExpress](https://www.aliexpress.com/item/32568347298.html?aff_fcid=9994ed39dd4346948a0c5d1feb13125a-1683717660943-04125-_DDv2vXx&tt=CPS_NORMAL&aff_fsk=_DDv2vXx&aff_platform=shareComponent-detail&sk=_DDv2vXx&aff_trace_key=9994ed39dd4346948a0c5d1feb13125a-1683717660943-04125-_DDv2vXx&terminal_id=6db88f7b3fff4670be83ec2d245af448&afSmartRedirect=y){ .md-button }
