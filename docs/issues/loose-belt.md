@@ -1,6 +1,7 @@
 ---
 comments: true
-title: How to tighten the belts on a Kingroon KLP1
+title: How to tighten loose belts
+description: How to tighten the loose belts on a Kingroon KLP1
 ---
 
 Mine and other KLP1's come with extremely loose belts. While there are two tensioner screws in the back left side of the extruder those cannot compensate for the amount of slack.
