@@ -14,7 +14,7 @@ To tighten the belts properly you will need to remove the toolhead from the rail
 4. Unplug the motor cable and remove the wires from the guide in the mount. It is easier to unplug the motor from the extruder board.
 [![Motor cable location](/images/issues/motor_cable.jpg)](/images/issues/motor_cable.jpg)
 5. Remove the extruder from the mount. You will need to rotate and angle it slightly to remove it from the rail mount. Alternatively you can unscrew the motor's two screws from the front but it's more work.
-6. Now that you have only the extruder mount plate you can begin adjusting the belt tension.
+6. Now that you have only the extruder mount plate you can begin adjusting the belt tension. You can also unscrew the plate from the linear rail, it is easier to work with but not necessary. 
 [![Extruder mount](/images/issues/extruder_mount.jpg)](/images/issues/extruder_mount.jpg)
 7. Loosen the 4 screws holding the belt tensioner until you can freely move them and pull the belts through them.
 [![Loosen tensioner mount screw](/images/issues/loosen_screws.jpg)](/images/issues/loosen_screws.jpg)
