@@ -30,6 +30,8 @@ Custom PTFE lined heat break.
 - diameter at narrow part: 6mm
 - length of cold end insert: 16.65mm
 
+Looks like it's also used on [Anycubic Kobra](https://www.aliexpress.com/item/1005004607611641.html?aff_fcid=2967df58caec417db4122f73281bea8c-1683830836288-09320-_DddLYxn&tt=CPS_NORMAL&aff_fsk=_DddLYxn&aff_platform=shareComponent-detail&sk=_DddLYxn&aff_trace_key=2967df58caec417db4122f73281bea8c-1683830836288-09320-_DddLYxn&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y) hot end.
+
 ### Heater Block
 
 Common [E3D V5](https://wiki.e3d-online.com/File:DRAWING-V5-BLOCK_rev5.jpg) style aluminium heat block.
