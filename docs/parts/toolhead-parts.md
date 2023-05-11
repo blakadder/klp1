@@ -10,7 +10,7 @@ description: Toolhead parts (extruder and hotend) for Kingroon KLP1
 
 Comes with V6 hardened steel nozzles.
 
-![V6 Nozzle](/images/parts/nozzle.webp){ width="50%" }
+![V6 Nozzle](/images/parts/nozzle.webp){ align=right width="50%" }
 
 !!! tip "Buy from"
     [Kingroon.com](https://s.zbanx.com/r/CfTT4uNHUpqO){ .md-button }
