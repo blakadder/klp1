@@ -32,7 +32,7 @@ Z-axis is driven by an LL-2GT closed loop belt roughly 220mm total length.
 
 ### Linear Rod Bearing
 
-Two LMK12UU linear bearings. 
+Two LMK12LUU linear bearings. 
 
 ![LMK12UU](/images/parts/LMK12UU.webp){ align=right width="50%" }
 
