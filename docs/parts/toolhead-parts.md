@@ -41,7 +41,17 @@ Common [E3D V5](https://wiki.e3d-online.com/File:DRAWING-V5-BLOCK_rev5.jpg) styl
     [Amazon CA](https://www.amazon.ca/Silicone-Compatible-Volnaco-Protector-Printer/dp/B0C3ZCDSD7?&linkCode=ll1&tag=tasmotatemp03-20&linkId=44645738178a20f18104395546b4352e&language=en_CA&ref_=as_li_ss_tl){ .md-button }
     [Amazon UK](https://www.amazon.co.uk/Printer-Heating-Extruder-Aluminum-Silicon/dp/B091FG97F6?&linkCode=ll1&tag=blakadders-20&linkId=83a0688a132598c77216a71a9370fe97&language=en_GB&ref_=as_li_ss_tl){ .md-button }
 
+### Heater Cartridge
 
+6x15 24V50W heater cartridge connected to terminals on the THR board.
+
+!!! tip "Buy from"
+    [AliExpress](https://www.aliexpress.com/item/1005004879141862.html?aff_fcid=b993c0af5566422ca1492555c1f99cfc-1683829382525-09545-_DEHqPKD&tt=CPS_NORMAL&aff_fsk=_DEHqPKD&aff_platform=shareComponent-detail&sk=_DEHqPKD&aff_trace_key=b993c0af5566422ca1492555c1f99cfc-1683829382525-09545-_DEHqPKD&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y){ .md-button }
+
+
+### Thermistor
+
+Glass bead thermistor
 
 ## Extruder 
 
