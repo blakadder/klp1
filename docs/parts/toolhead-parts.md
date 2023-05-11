@@ -22,7 +22,7 @@ Comes with V6 hardened steel nozzles.
 
 ### Heat Break
 
-![Heat Break](/images/parts/heat_break.webp){ align=right width="50%" }
+![Heat Break](/images/parts/heat_break.jpg){ align=right width="50%" }
 
 Custom PTFE lined heat break. 
 
