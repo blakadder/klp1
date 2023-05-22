@@ -44,6 +44,7 @@ Kingroon KLP1 is a budget friendly, fully enclosed CoreXY 3D printer running on 
 
 ## Communities
 
+[Discord](https://discord.gg/UqBs3H8bmy){ .md-button .md-button--primary }
 [Facebook Group](https://www.facebook.com/groups/kingroon3d/){ .md-button .md-button--primary }
 [reddit](https://www.reddit.com/r/kingroon3d){ .md-button .md-button--primary }
 
