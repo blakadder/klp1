@@ -45,7 +45,7 @@ theme:
   icon:
     admonition:
       tip: material/shopping-outline  
-  logo: images/logo.png
+  logo: images/KLP1.svg
 
 plugins:
   - search
