@@ -4,6 +4,15 @@ title: Printer Parts
 description: Printer parts for Kingroon KLP1
 ---
 
+## PEI Print Sheet
+
+210x210 spring steel PEI coated sheet.
+
+!!! tip "Buy from"
+    [Kingroon](https://kingroon.com/collections/3d-printer-spare-parts-accessories/products/magnetic-pei-sheet-3d-printer-heatbed-bam-build-plate?variant=43256225464538&sca_ref=3869528.BgcwN5Ufox){ .md-button }
+
+
+
 ## Mainboard
 
 Kingroon's custom mainboard called "Kingroon KP Cheetah", based on [MKS SKIPR](https://www.aliexpress.com/item/1005004509354702.html?aff_fcid=166358c921274e8b927d0c0b45c149f6-1683324450389-05113-_DeCkcSN&tt=CPS_NORMAL&aff_fsk=_DeCkcSN&aff_platform=shareComponent-detail&sk=_DeCkcSN&aff_trace_key=166358c921274e8b927d0c0b45c149f6-1683324450389-05113-_DeCkcSN&terminal_id=165068c405fe431e83f4b86336c9e8c9&afSmartRedirect=y). 
@@ -11,7 +20,6 @@ Kingroon's custom mainboard called "Kingroon KP Cheetah", based on [MKS SKIPR](h
 First line of printers comes with V1.1 of the board which is not the same as the V2 presented in the printer [release stream](https://youtu.be/YSQdchuTED0?t=5047).
 
 ![Printer mainboard](/images/parts/mainboard.jpg){ width="50%" }
-
 
 ## Linear Rails
 
