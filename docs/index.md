@@ -12,6 +12,10 @@ Kingroon KLP1 is a budget friendly, fully enclosed CoreXY 3D printer running on 
 
 ![](/images/KingroonKLP1.webp){ width="250" }
 
+Kingroon has unveiled the update version of KLP1 with a ceramic hotend nozzle, screen and improved build plate.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/K-azYwYpAN8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Features
 
 ![](/images/extruder.webp){ align=right width="250" }
