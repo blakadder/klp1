@@ -1,6 +1,7 @@
 ---
-title: Firmware for Kingroon KLP1
-description: Kingroon KLP1 firmware image and configuration files
+title: Firmware and Slicer Profiles
+description: Kingroon KLP1 firmware image, configuration files and slicer profiles
+comments: true
 ---
 
 ## System Image
