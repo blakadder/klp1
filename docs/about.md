@@ -5,7 +5,7 @@ description: About Kingroon KLP1
 
 ## Features
 
-[![Kingroon KLP1](/images/KingroonKLP1.jpg){ width="250" }](/images/KingroonKLP1.jpg)
+[![Kingroon KLP1](/images/KingroonKLP1.jpg){ align=right width="250" }](/images/KingroonKLP1.jpg)
 
 - 210x210x210 print size on a PEI print sheet
 - Metal and acrylic enclosure with a 400x420x420mm footprint
@@ -24,7 +24,7 @@ description: About Kingroon KLP1
 
 ## KLP1 Gen1
 
-![Extruder Gen1](/images/extruder.webp){ align=right width="250" }
+[![Extruder Gen1](/images/extruder.webp){ align=right width="250" }](/images/extruder.webp)
 
 First run of KLP1 printers or Gen1 had notable differences compared to the current version:
 
