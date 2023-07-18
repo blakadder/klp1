@@ -50,6 +50,7 @@ theme:
 plugins:
   - search
   - tags
+  - glightbox
   - social:
       cards_layout_options:
         background_color: "#CC5500" 

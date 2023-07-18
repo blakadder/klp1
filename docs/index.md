@@ -14,6 +14,8 @@ An updated version of KLP1 is now available for pre-sale with an all metal ceram
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/K-azYwYpAN8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+There will be a printer upgrade kit available for Gen1 owners.
+
 A number of KLP1 parts have been added to [Kingroon's store](https://kingroon.com/collections/kingroon-klp1-3d-printer-replacement-parts-accessories?sca_ref=3869528.BgcwN5Ufox).
 
 ## Buy Kingroon KLP1
