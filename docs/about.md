@@ -5,7 +5,7 @@ description: About Kingroon KLP1
 
 ## Features
 
-![Showcase](/images/showcase2.jpg){ align=right width="250" }
+[![Kingroon KLP1](/images/KingroonKLP1.jpg){ width="250" }](/images/KingroonKLP1.jpg)
 
 - 210x210x210 print size on a PEI print sheet
 - Metal and acrylic enclosure with a 400x420x420mm footprint
