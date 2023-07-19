@@ -15,7 +15,7 @@ description: Printer parts for Kingroon KLP1
 
 Kingroon's custom mainboard called "Kingroon KP Cheetah", based on [MKS SKIPR](https://www.aliexpress.com/item/1005004509354702.html?aff_fcid=166358c921274e8b927d0c0b45c149f6-1683324450389-05113-_DeCkcSN&tt=CPS_NORMAL&aff_fsk=_DeCkcSN&aff_platform=shareComponent-detail&sk=_DeCkcSN&aff_trace_key=166358c921274e8b927d0c0b45c149f6-1683324450389-05113-_DeCkcSN&terminal_id=165068c405fe431e83f4b86336c9e8c9&afSmartRedirect=y). 
 
-![Printer mainboard](/images/parts/mainboard.jpg){ width="50%" }
+![Printer mainboard](/images/parts/mainboard.jpg)
 
 !!! tip "Buy from"
     [Kingroon](https://kingroon.com/products/kingroon-kp-cheetah-v2-0-mainboard-for-kp3s-pro-v2-3d-printer?sca_ref=3869528.BgcwN5Ufox){ .md-button }
