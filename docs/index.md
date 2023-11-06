@@ -21,6 +21,7 @@ A number of KLP1 parts have been added to [Kingroon's store](https://kingroon.co
 ## Buy Kingroon KLP1
 
 [Kingroon](https://kingroon.com/products/kingroon-klp1-corexy-3d-printer-with-klipper-firmware?sca_ref=3869528.BgcwN5Ufox){ .md-button }
+[Gearberry](https://c.gearberry.com/r/DkNK3o5j8a4r){ .md-button }
 [AliExpress](https://www.aliexpress.com/item/1005005848702527.html?aff_fcid=2346a7e2d2924a688a6bc3f352599141-1683321467862-09053-_DeEl0u1&tt=CPS_NORMAL&aff_fsk=_DeEl0u1&aff_platform=shareComponent-detail&sk=_DeEl0u1&aff_trace_key=2346a7e2d2924a688a6bc3f352599141-1683321467862-09053-_DeEl0u1&terminal_id=165068c405fe431e83f4b86336c9e8c9&afSmartRedirect=y){ .md-button }
 
 ## Communities
