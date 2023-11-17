@@ -1,7 +1,7 @@
 ---
 comments: true
 title: Missing macros
-description: Missing macros from Kingroon KLP1
+description: Add missing load/unload macros to Kingroon KLP1
 ---
 
 KLP1 v2.1 came with missing LOAD and UNLOAD filament macros. Add these to your `printer.cfg` or its own file 

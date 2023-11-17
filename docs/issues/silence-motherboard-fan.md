@@ -1,7 +1,7 @@
 ---
 comments: true
-title: Part Cooling Fan Speed
-description: Enable Variable Speed on Part Cooling Fan
+title: Loud motherboard fan
+description: Configuration to silence the motherboard fan on Kingroon KLP1 
 ---
 
 The motherboard fan is not properly configured out of the box.

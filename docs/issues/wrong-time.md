@@ -1,6 +1,6 @@
 ---
 comments: true
-title: Wrong System Time  
+title: Wrong system time & date
 description: Fix wrong time and/or date that's showing in history, logs and console
 ---
 

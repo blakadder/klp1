@@ -1,7 +1,7 @@
 ---
 comments: true
-title: Part Cooling Fan Speed
-description: Enable Variable Speed on Part Cooling Fan
+title: Part cooling fan speed
+description: Enable variable speed on stock part cooling fan
 ---
 
 You **do not** need to replace the stock part cooling fan to have variable speeds. The solution to this is to edit the `MKS_THR.cfg` file and find the `[fan]` section and edit the stock values to match the below. 
