@@ -38,7 +38,7 @@ This is the hotend for KLP1 Gen2 with the CHT heater.
 
 ![Thermistor](/images/parts/thermistor.webp){ align=right width="50%" }
 
-Glass bead thermistor
+Glass bead thermistor for no-screen V1 version
 
 !!! tip "Buy from"
     [Kingroon](https://kingroon.com/products/thermistor-sensor-for-kingroon-kp3s-pro-v2-klp1?sca_ref=3869528.BgcwN5Ufox){ .md-button }
@@ -47,54 +47,6 @@ Glass bead thermistor
 ### Ceramic Heater
 
 ![Ceramic heater](/images/parts/ceramic_heater.webp){ align=right width="50%" }
-
-Glass bead thermistor
-
-!!! tip "Buy from"
-    [Kingroon](https://kingroon.com/products/thermistor-sensor-for-kingroon-kp3s-pro-v2-klp1?sca_ref=3869528.BgcwN5Ufox){ .md-button }
-    [AliExpress](https://www.aliexpress.com/item/1005004879141862.html?aff_fcid=b993c0af5566422ca1492555c1f99cfc-1683829382525-09545-_DEHqPKD&tt=CPS_NORMAL&aff_fsk=_DEHqPKD&aff_platform=shareComponent-detail&sk=_DEHqPKD&aff_trace_key=b993c0af5566422ca1492555c1f99cfc-1683829382525-09545-_DEHqPKD&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y){ .md-button }
-
-## Hotend Gen1
-
-### Heat Break 
-
-![Heat Break](/images/parts/heat_break.jpg){ align=right width="50%" }
-
-Custom PTFE lined heat break.
-
-- diameter: 7mm
-- diameter at narrow part: 6mm
-- length of cold end insert: 16.65mm
-
-Looks like it's also used on [Anycubic Kobra](https://www.aliexpress.com/item/1005004607611641.html?aff_fcid=2967df58caec417db4122f73281bea8c-1683830836288-09320-_DddLYxn&tt=CPS_NORMAL&aff_fsk=_DddLYxn&aff_platform=shareComponent-detail&sk=_DddLYxn&aff_trace_key=2967df58caec417db4122f73281bea8c-1683830836288-09320-_DddLYxn&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y) hot end.
-
-!!! tip "Buy from"
-    [Kingroon](https://kingroon.com/collections/3d-printer-spare-parts-accessories/products/anycubic-kobra-hotend-replacement?sca_ref=3869528.BgcwN5Ufox){ .md-button }
-    [AliExpress](https://www.aliexpress.com/item/1005004607611641.html?aff_fcid=2967df58caec417db4122f73281bea8c-1683830836288-09320-_DddLYxn&tt=CPS_NORMAL&aff_fsk=_DddLYxn&aff_platform=shareComponent-detail&sk=_DddLYxn&aff_trace_key=2967df58caec417db4122f73281bea8c-1683830836288-09320-_DddLYxn&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y){ .md-button }
-
-### Heater Block
-
-Common [E3D V5](https://wiki.e3d-online.com/File:DRAWING-V5-BLOCK_rev5.jpg) style aluminium heat block.
-
-!!! tip "Buy from"
-    [Kingroon](https://kingroon.com/collections/3d-printer-spare-parts-accessories/products/e3d-v5-heating-block-kp3s?sca_ref=3869528.BgcwN5Ufox){ .md-button }
-    [AliExpress](https://www.aliexpress.com/item/4001065717057.html?aff_fcid=1f122b3b005542e285a658e8eb960e72-1683799395612-02117-_DDJt7Eh&tt=CPS_NORMAL&aff_fsk=_DDJt7Eh&aff_platform=shareComponent-detail&sk=_DDJt7Eh&aff_trace_key=1f122b3b005542e285a658e8eb960e72-1683799395612-02117-_DDJt7Eh&terminal_id=6db88f7b3fff4670be83ec2d245af448&afSmartRedirect=y){ .md-button }
-    [Amazon EU](https://www.amazon.de/-/en/HysiPrui-Silicone-Anycubi-Extruder-Accessories/dp/B09XL25JWS?&linkCode=ll1&tag=blakadders-20&linkId=066b662fbe1e681469ba1493e906c701&language=en_GB&ref_=as_li_ss_tl){ .md-button }
-    [Amazon US](https://www.amazon.com/Upgrade-Compatible-Printhead-Anycubic-Flyingbear/dp/B09P1H84MX?th=1&linkCode=ll1&tag=blakadders-20&linkId=c6ec0d0a6655e629841918b3a1770f06&language=en_US&ref_=as_li_ss_tl){ .md-button }
-    [Amazon CA](https://www.amazon.ca/Silicone-Compatible-Volnaco-Protector-Printer/dp/B0C3ZCDSD7?&linkCode=ll1&tag=tasmotatemp03-20&linkId=44645738178a20f18104395546b4352e&language=en_CA&ref_=as_li_ss_tl){ .md-button }
-    [Amazon UK](https://www.amazon.co.uk/Printer-Heating-Extruder-Aluminum-Silicon/dp/B091FG97F6?&linkCode=ll1&tag=blakadders-20&linkId=83a0688a132598c77216a71a9370fe97&language=en_GB&ref_=as_li_ss_tl){ .md-button }
-
-### Heater Cartridge Gen1
-
-6x15 24V50W heater cartridge connected to terminals on the THR board.
-
-!!! tip "Buy from"
-    [Kingroon](https://kingroon.com/collections/3d-printer-spare-parts-accessories/products/6-15-mm-green-heater-cartridge-tube?sca_ref=3869528.BgcwN5Ufox){ .md-button }
-    [AliExpress](https://www.aliexpress.com/item/1005004879141862.html?aff_fcid=b993c0af5566422ca1492555c1f99cfc-1683829382525-09545-_DEHqPKD&tt=CPS_NORMAL&aff_fsk=_DEHqPKD&aff_platform=shareComponent-detail&sk=_DEHqPKD&aff_trace_key=b993c0af5566422ca1492555c1f99cfc-1683829382525-09545-_DEHqPKD&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y){ .md-button }
-
-### Thermistor
-
-![Thermistor](/images/parts/thermistor.webp){ align=right width="50%" }
 
 Glass bead thermistor
 
@@ -172,3 +124,51 @@ Part cooling fan is a non-standard 5015 fan with a wide exhaust and smaller scre
 
 !!! warning "A standard 5015 fan will not fit inside the toolhead due to the screw mounts on the cover"
     You will need to grind down the screw posts and print a modified fan vent to fit.
+
+## Hotend v1.0
+
+### Heat Break v1.0
+
+![Heat Break](/images/parts/heat_break.jpg){ align=right width="50%" }
+
+Custom PTFE lined heat break.
+
+- diameter: 7mm
+- diameter at narrow part: 6mm
+- length of cold end insert: 16.65mm
+
+Looks like it's also used on [Anycubic Kobra](https://www.aliexpress.com/item/1005004607611641.html?aff_fcid=2967df58caec417db4122f73281bea8c-1683830836288-09320-_DddLYxn&tt=CPS_NORMAL&aff_fsk=_DddLYxn&aff_platform=shareComponent-detail&sk=_DddLYxn&aff_trace_key=2967df58caec417db4122f73281bea8c-1683830836288-09320-_DddLYxn&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y) hot end.
+
+!!! tip "Buy from"
+    [Kingroon](https://kingroon.com/collections/3d-printer-spare-parts-accessories/products/anycubic-kobra-hotend-replacement?sca_ref=3869528.BgcwN5Ufox){ .md-button }
+    [AliExpress](https://www.aliexpress.com/item/1005004607611641.html?aff_fcid=2967df58caec417db4122f73281bea8c-1683830836288-09320-_DddLYxn&tt=CPS_NORMAL&aff_fsk=_DddLYxn&aff_platform=shareComponent-detail&sk=_DddLYxn&aff_trace_key=2967df58caec417db4122f73281bea8c-1683830836288-09320-_DddLYxn&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y){ .md-button }
+
+### Heater Block v1.0
+
+Common [E3D V5](https://wiki.e3d-online.com/File:DRAWING-V5-BLOCK_rev5.jpg) style aluminium heat block.
+
+!!! tip "Buy from"
+    [Kingroon](https://kingroon.com/collections/3d-printer-spare-parts-accessories/products/e3d-v5-heating-block-kp3s?sca_ref=3869528.BgcwN5Ufox){ .md-button }
+    [AliExpress](https://www.aliexpress.com/item/4001065717057.html?aff_fcid=1f122b3b005542e285a658e8eb960e72-1683799395612-02117-_DDJt7Eh&tt=CPS_NORMAL&aff_fsk=_DDJt7Eh&aff_platform=shareComponent-detail&sk=_DDJt7Eh&aff_trace_key=1f122b3b005542e285a658e8eb960e72-1683799395612-02117-_DDJt7Eh&terminal_id=6db88f7b3fff4670be83ec2d245af448&afSmartRedirect=y){ .md-button }
+    [Amazon EU](https://www.amazon.de/-/en/HysiPrui-Silicone-Anycubi-Extruder-Accessories/dp/B09XL25JWS?&linkCode=ll1&tag=blakadders-20&linkId=066b662fbe1e681469ba1493e906c701&language=en_GB&ref_=as_li_ss_tl){ .md-button }
+    [Amazon US](https://www.amazon.com/Upgrade-Compatible-Printhead-Anycubic-Flyingbear/dp/B09P1H84MX?th=1&linkCode=ll1&tag=blakadders-20&linkId=c6ec0d0a6655e629841918b3a1770f06&language=en_US&ref_=as_li_ss_tl){ .md-button }
+    [Amazon CA](https://www.amazon.ca/Silicone-Compatible-Volnaco-Protector-Printer/dp/B0C3ZCDSD7?&linkCode=ll1&tag=tasmotatemp03-20&linkId=44645738178a20f18104395546b4352e&language=en_CA&ref_=as_li_ss_tl){ .md-button }
+    [Amazon UK](https://www.amazon.co.uk/Printer-Heating-Extruder-Aluminum-Silicon/dp/B091FG97F6?&linkCode=ll1&tag=blakadders-20&linkId=83a0688a132598c77216a71a9370fe97&language=en_GB&ref_=as_li_ss_tl){ .md-button }
+
+### Heater Cartridge v1.0
+
+6x15 24V50W heater cartridge connected to terminals on the THR board.
+
+!!! tip "Buy from"
+    [Kingroon](https://kingroon.com/collections/3d-printer-spare-parts-accessories/products/6-15-mm-green-heater-cartridge-tube?sca_ref=3869528.BgcwN5Ufox){ .md-button }
+    [AliExpress](https://www.aliexpress.com/item/1005004879141862.html?aff_fcid=b993c0af5566422ca1492555c1f99cfc-1683829382525-09545-_DEHqPKD&tt=CPS_NORMAL&aff_fsk=_DEHqPKD&aff_platform=shareComponent-detail&sk=_DEHqPKD&aff_trace_key=b993c0af5566422ca1492555c1f99cfc-1683829382525-09545-_DEHqPKD&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y){ .md-button }
+
+### Thermistor v1.0
+
+![Thermistor](/images/parts/thermistor.webp){ align=right width="50%" }
+
+Glass bead thermistor
+
+!!! tip "Buy from"
+    [Kingroon](https://kingroon.com/products/thermistor-sensor-for-kingroon-kp3s-pro-v2-klp1?sca_ref=3869528.BgcwN5Ufox){ .md-button }
+    [AliExpress](https://www.aliexpress.com/item/1005004879141862.html?aff_fcid=b993c0af5566422ca1492555c1f99cfc-1683829382525-09545-_DEHqPKD&tt=CPS_NORMAL&aff_fsk=_DEHqPKD&aff_platform=shareComponent-detail&sk=_DEHqPKD&aff_trace_key=b993c0af5566422ca1492555c1f99cfc-1683829382525-09545-_DEHqPKD&terminal_id=3f8c776975fd455ba956809c02d71a91&afSmartRedirect=y){ .md-button }
