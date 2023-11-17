@@ -30,7 +30,7 @@ comments: true
 
 ## OrcaSlicer
 
-OrcaSlicer is the recommended slicer by Kingroon. Follow their [guide for printer calibration](https://kingroon.com/blogs/3d-print-101/orcaslicer-calibration-the-final-puzzle-for-kingroon-klp1-and-kp3s-pro-v2).
+OrcaSlicer is the recommended slicer by Kingroon. Follow their [guide for printer calibration](https://github.com/SoftFever/OrcaSlicer/wiki/Calibration) to tune your KLP1.
 
 [Download](https://onedrive.live.com/?authkey=%21AC09ycdms5k8YDk&id=D97D20DCB9569C61%212538&cid=D97D20DCB9569C61){ .md-button .md-button--primary }
 
