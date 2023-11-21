@@ -34,6 +34,10 @@ comments: true
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rx2wmNNnNvo?si=tGkUR-IxTrZwzNEv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## Adjust Proximity Switch Height
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7-T7I_janlc?si=iQKrxjQASu38Mnk2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Change Ceramic Heater and Thermistor
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ka7-E4WTdSo?si=GRURrzvCrrrc0E7_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
