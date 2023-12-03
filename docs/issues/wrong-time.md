@@ -6,7 +6,7 @@ description: Fix wrong time and/or date that's showing in history, logs and cons
 
 SSH to the IP address of KLP1. 
 
-Login with username **mks** and password **makerbase**.
+Login with username **root** and password **makerbase**.
 
 Run command `sudo dpkg-reconfigure tzdata` and select your timezone.
 
