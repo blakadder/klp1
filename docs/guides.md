@@ -59,3 +59,7 @@ How to replace the extruder controller board, commonly known as THR.
 ## Flash Extruder Board Firmware
 
 [Guide](https://kingroon.com/blogs/3d-print-101/flash-thr-board-firmware-of-kingroon-kp3s-pro-v2-klp1-3d-printer) from Kingroon.com
+
+## Install Auxiliary Fan
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HyCEEG9eKGg?si=mMR8UDaS9ua1Kd0j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
