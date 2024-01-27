@@ -94,7 +94,7 @@ NEMA14 36 high temperature stepper motor
 
 ## Extruder Board
 
-Custom board similar to [MKS THR](https://www.aliexpress.com/item/1005004984153336.html?aff_fcid=b6743542c13e461b9dcc410484d7df22-1683798418600-00265-_Dch2m6l&tt=CPS_NORMAL&aff_fsk=_Dch2m6l&aff_platform=shareComponent-detail&sk=_Dch2m6l&aff_trace_key=b6743542c13e461b9dcc410484d7df22-1683798418600-00265-_Dch2m6l&terminal_id=6db88f7b3fff4670be83ec2d245af448&afSmartRedirect=y) boards connected to the mainboard via CANBUS. Marked "Kingroon KP THR V1.0".
+Custom board similar to [MKS THR](https://www.aliexpress.com/item/1005004984153336.html?aff_fcid=b6743542c13e461b9dcc410484d7df22-1683798418600-00265-_Dch2m6l&tt=CPS_NORMAL&aff_fsk=_Dch2m6l&aff_platform=shareComponent-detail&sk=_Dch2m6l&aff_trace_key=b6743542c13e461b9dcc410484d7df22-1683798418600-00265-_Dch2m6l&terminal_id=6db88f7b3fff4670be83ec2d245af448&afSmartRedirect=y) boards connected to the mainboard via USB. Marked "Kingroon KP THR V1.0".
 
 [![Extruder board front](/images/parts/extruder_board_front.jpg){ width="49%" }](/images/parts/extruder_board_front.jpg)
 [![Extruder board back](/images/parts/extruder_board_back.jpg){ width="49%" }](/images/parts/extruder_board_back.jpg)
